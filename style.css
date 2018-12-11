@@ -16,7 +16,7 @@ body {
   font-size: 20px;
 }
 
-main {
+body {
   position: relative;
   top: 100px;
 }
